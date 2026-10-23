@@ -7,6 +7,8 @@ print("远程1")
 print("本地1")
 print("本地2")
 print("远程2")
+def aa:
+    print(1)
 
 def aa:
     print(1)
